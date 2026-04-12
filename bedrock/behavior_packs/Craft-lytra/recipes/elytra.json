@@ -1,0 +1,37 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minegarp:elytra"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "MMM",
+        "LML",
+        "LSL"
+    ],
+    "key": {
+      "M": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "L": {
+        "item": "minecraft:leather"
+      },
+      "S": {
+        "item": "minecraft:nether_star"
+      }
+    },
+	"unlock": [
+      {
+        "item": "minecraft:phantom_membrane"
+      },
+	  {
+		"item": "minecraft:leather"
+      }
+    ],
+   "result": {
+      "item": "minecraft:elytra",
+      "count": 1
+    } 
+  }
+}
