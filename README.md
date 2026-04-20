@@ -4,7 +4,7 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/MineGarp/Craft-lytra/total)
 [![Discord](https://img.shields.io/discord/992026973746511912?label=Discord&logo=discord)](https://discord.gg/mvZChPs72R)
 
-Wait, That's Elytra Craftable?! (เดี๋ยวนะ ปีกมันคราฟต์ได้ด้วยเหรอ?!)
+Wait, That's Craftable Elytra?! (เดี๋ยวนะ ปีกมันคราฟต์ได้ด้วยเหรอ?!)
 
 "ปีกมันคราฟต์ไม่ได้! อย่าดูช่องอื่นให้มาก"
 แพ็กนี้สร้างมาเพื่อพี่แท็ก Tackle4826 โดยเฉพาะ เพราะวันนี้... ปีกมันคราฟต์ได้แล้วโว้ยยย! (ถ้าใส่ส่วนเสริมนี้)
